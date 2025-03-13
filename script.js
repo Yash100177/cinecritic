@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY";  // Replace with your actual TMDB API key
+const apiKey = "e36269ddfaede76eab53a3b5fec2ecfe";  // Replace with your actual TMDB API key
 const baseUrl = "https://api.themoviedb.org/3";
 
 async function searchMovie() {
