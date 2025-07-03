@@ -9,7 +9,7 @@ const Button = props => {
             >
                 {props.children}
         </button>
-    )
+    );
 }
 
 const OutlineButton = props => {
@@ -20,7 +20,7 @@ const OutlineButton = props => {
         >
             {props.children}
         </Button>
-    )
+    );
 }
 
 Button.PropTypes = {
