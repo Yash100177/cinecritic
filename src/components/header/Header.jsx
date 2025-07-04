@@ -44,12 +44,12 @@ const Header = () => {
 
     return (
         <div ref={headerRef} className='header'>
-            <div className='header_wrap container'>
+            <div className='header__wrap container'>
                 <div className='logo'>
                     <img src={logo} alt='' />
                     <Link to='/'>CineCritic</Link>
                 </div>
-                <ul className='header_nav'>
+                <ul className='header__nav'>
                     {
                         headerNav.map((e, i) => (
                             <li key={i} className={`${i === active ? 'active' : ''}`}>

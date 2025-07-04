@@ -31,7 +31,7 @@
         background-color: $body-bg;
     }
 
-    &_wrap {
+    &__wrap {
         @include flex(center, space-between);
         height: 100%;
         padding: 0 2rem;
@@ -41,7 +41,7 @@
         }
     }
 
-    &_nav {
+    &__nav {
         @include flex(center, unset);
 
         & > * ~ * {
