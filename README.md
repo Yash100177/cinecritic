@@ -1,71 +1,70 @@
-# 🎬 CineCritic - Movie Review & Discovery Platform
+# Getting Started with Create React App
 
-CineCritic is a **movie search and review website** that allows users to explore movies, view ratings, and discover trending films using the **TMDB API**. It provides an intuitive and responsive UI for users to find detailed movie information, including posters, release dates, and audience ratings.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
----
+## Available Scripts
 
-## 🚀 Features
+In the project directory, you can run:
 
-✔ **Search Movies** - Find movies by title with real-time search results.  
-✔ **Detailed Movie Information** - View posters, release dates, ratings, and descriptions.  
-✔ **Trending & Popular Movies** - Explore top-rated and trending films.  
-✔ **Audience Ratings** - Display ratings from TMDB.  
-✔ **Modern UI** - Clean, responsive design for a seamless experience.  
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠 Tech Stack
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **API Integration:** TMDB API  
-- **Hosting:** GitHub Pages / Vercel / Netlify  
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 📌 Live Demo
-[**CineCritic Live**](#) *(Add live link here once deployed)*  
+### `npm run build`
 
----
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## 🔧 Installation Guide
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-1️⃣ **Clone the Repository**
-```sh
-git clone https://github.com/yourusername/CineCritic.git
-cd CineCritic
-```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-2️⃣ **Get TMDB API Key**
-- Sign up at [TMDB](https://www.themoviedb.org/signup)  
-- Generate an API key from [TMDB Developer Portal](https://developer.themoviedb.org/reference/intro)  
+### `npm run eject`
 
-3️⃣ **Edit API Key in `script.js`**
-```javascript
-const apiKey = "YOUR_API_KEY";  // Replace with your actual TMDB API key
-```
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-4️⃣ **Run Locally**
-Simply open `index.html` in a web browser.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 📌 API Documentation
-- TMDB API Docs: [https://developer.themoviedb.org/reference/intro](https://developer.themoviedb.org/reference/intro)
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
----
+## Learn More
 
-## 📜 License
-This project is open-source under the **MIT License**.
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
----
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## 🎯 Future Enhancements
-🔹 Add user authentication for personalized experience  
-🔹 Implement user-generated reviews  
-🔹 Create a watchlist feature for users  
-🔹 Improve UI/UX with animations  
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-⭐ **Contributions are welcome!** Feel free to fork this repository and submit pull requests. 😊
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
