@@ -33,6 +33,10 @@ CineCritic is a responsive and user-friendly movie exploration web app built usi
 ### TV Series Listing 
 ![TV Series](./screenshots/tv-series-page.png)
 
+## Live Demo
+
+[Visit CineCritic Live]([(https://cinecritic-iota.vercel.app/))
+
 ## Getting Started
 
 ### Installation
