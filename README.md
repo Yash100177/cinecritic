@@ -30,7 +30,7 @@ CineCritic is a responsive and user-friendly movie exploration web app built usi
 ### TV Show Detail Page (Breaking Bad)
 ![TV Detail](./screenshots/detail-ice-road.png)
 
-### TV Series Listing (Optional)
+### TV Series Listing 
 ![TV Series](./screenshots/tv-series-page.png)
 
 ## Getting Started
