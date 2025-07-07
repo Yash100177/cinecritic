@@ -38,6 +38,6 @@ CineCritic is a responsive and user-friendly movie exploration web app built usi
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/CineCritic.git
+git clone https://github.com/Yash100177/CineCritic.git
 cd CineCritic
 npm install
