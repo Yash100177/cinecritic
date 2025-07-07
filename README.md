@@ -27,7 +27,7 @@ CineCritic is a responsive and user-friendly movie exploration web app built usi
 ### Search Result (e.g., Shutter Island)
 ![Search Result](./screenshots/search.png)
 
-### TV Show Detail Page (Breaking Bad)
+### Movie Detail Page 
 ![TV Detail](./screenshots/detail-ice-road.png)
 
 ### TV Series Listing 
